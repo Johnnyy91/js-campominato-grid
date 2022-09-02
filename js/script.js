@@ -33,3 +33,11 @@ buttonClick.addEventListener('click' ,function(){
 function isNumberOdd(number) {
     return number % 2 === 0;
 }
+
+
+/*
+creare un array con 100 elementi(i numeri da 1 a 100)
+Entrare in un ciclo che prende un numero casuale da quell'array e lo assegna alla cella, eliminandolo dall'array.
+In questo modo ogni volta che entro nell'array pesco un numero e lo elimino, al termine dell'esecuzione avrò distribuito tutti i numeri casualmente.
+*/
+
