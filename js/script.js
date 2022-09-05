@@ -16,7 +16,7 @@ buttonClick.addEventListener('click' ,function(){
         cell.className = 'cell';
         grid.append(cell);
 
-//DISTIGUO AL CLICK CELLE DISPARI E CELLE PARI
+//DISTINGUO AL CLICK CELLE DISPARI E CELLE PARI
         cell.addEventListener('click', function(){
             console.log('click me' , i)
             
